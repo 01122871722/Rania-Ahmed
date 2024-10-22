@@ -19,6 +19,5 @@ Hi there! I'm **Rania Ahmed Antar**, a passionate Computer Science and Engineeri
 ## Connect with Me
 
 - [LinkedIn][(https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/rania-ahmed-8695771bb))
-- [GitHub]([https://github.com/your-github-profile](https://github.com/))
 
 Thank you for visiting, and happy coding! 😊
